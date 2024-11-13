@@ -1,0 +1,444 @@
+body {
+    background-color: #F7E9D7
+  }
+  #title, #tribute-info{
+    text-align: center;
+  }
+  #title {
+    color: #64401C;
+    font-family: 'Sofia';
+    font-size: 50px;
+    font-weight: normal;
+    padding-top: 7px;
+    margin-bottom: 13px;
+  
+  }
+  #tribute-info{
+    color: #174789;
+    font-family: 'Solway';
+    font-size: 25px;
+    font-weight: bold;
+    margin-top: -1px;
+  }
+  #main {
+    width: 500px;
+    height: 3900px;
+    background-color: #B6CDE4;
+    margin: auto;
+  }
+  #image{
+    width: 470px;
+    max-width: 100%;
+    height: auto;
+    display: block;
+    text-align: center;
+    margin-right: 13px;
+   margin-left: 13px;
+   margin-top: 25px;
+   margin-bottom: 17px;
+   }
+   img {
+     border: 2px solid #9A341A;
+   }
+   .div-line {
+     border: 1px solid #9A341A;
+     width: 470px;
+     margin-right: 13px;
+   margin-left: 13px;
+   margin-top: 25px;
+   margin-bottom: 25px;
+   }
+   #first-div-line {
+     margin-top: -7px;
+   }
+   #second-div-line {
+    margin-top: 17px; 
+   }
+   #img-caption {
+  text-align: center;
+  color: #9A341A;
+    font-family: 'Solway';
+    font-size: 13px;
+   }
+   #sabrina {
+     width: 150px;
+     height: auto;
+    display: inline;
+  margin-right: 13px;
+  margin-top: -135px;
+  float: right;
+   }
+  .timeline-title {
+    float: left;
+    display: inline;
+    color: #174789;
+    font-family: 'Solway';
+    font-size: 25px;
+    font-weight: bold;
+  }
+  #tt-1 {
+    margin-top: 0;  margin-left: 55px;
+  }
+  #tt-2 {
+    margin-top: -22px;  margin-left: 80px;
+  }
+  .dates {
+    color: #64401C;
+    font-weight: bold;
+     font-family: 'Solway';
+    font-size: 18px;
+  }
+  .text {
+    color: #174789;
+    font-family: 'Solway';
+    font-size: 18px;
+  }
+  #birth-1, #birth-2 {
+  float: left;
+    display: inline;
+    margin-left: 25px;
+  }
+  #birth-1 {
+    margin-top: -5px;
+    padding-top: 5px;
+  }
+  #birth-2 {
+    margin-top: -15px;
+    margin-bottom: 10px;
+  }
+  .container-2 {
+    float: left;
+    display: inline;
+    margin-left: 25px;
+  }
+  .top-line {
+    margin-top: 10px;
+  }
+  .mid-lines {
+    margin-top: -15px;
+  }
+  .last-line {
+    padding-bottom: 5px
+  }
+  #sabrina-concert-1{
+    width: 215px;
+    margin-left: 20px;
+    display: inline;
+    float: left;
+  }
+  #ewo-1 {
+    display: inline;
+    float: right;
+    margin-right: 47px;
+    margin-top: 10px;
+  }
+  #ewo-2 {
+    display: inline;
+    float: right;
+    margin-right: 66px;
+    margin-top: -15px;
+  }
+  #ewo-3 {
+    display: inline;
+    float: right;
+    margin-right: 27px;
+    margin-top: -15px;
+  }
+  #evo-1 {
+    display: inline;
+    float: right;
+    margin-right: 47px;
+    margin-top: 5px;
+  }
+  #evo-2 {
+    display: inline;
+    float: right;
+    margin-right: 85px;
+    margin-top: -15px;
+  }
+  #evo-3 {
+    display: inline;
+    float: right;
+    margin-right: 30px;
+    margin-top: -15px;
+  }
+  #evo-4 {
+    display: inline;
+    float: right;
+    margin-right: 27px;
+    margin-top: -15px;
+  }
+  #evo-5 {
+    display: inline;
+    float: right;
+    margin-right: 83px;
+    margin-top: -15px;
+  }
+  .container-4 {
+    float: left;
+    display: inline;
+    margin-left: 25px;
+  }
+  .container-5 {
+    float: left;
+    display: inline;
+    margin-left: 25px;
+  }
+  #forbes-1 {
+    margin-top: 5px;
+  }
+  #forbes-2 {
+    margin-top: -14px;
+  }
+  #umg, #skin {
+    margin-top: 24px;
+  }
+  #sabrina-concert-2 {
+    width: 162px;
+     height: auto;
+    display: inline;
+  margin-right: 13px;
+  margin-top: -5px;
+  float: right;
+  }
+  .container-6 {
+    float: left;
+    display: inline;
+    margin-left: 25px;
+  }
+  #emails{
+   margin-top: 24px;
+  }
+  #sabrina-concert-3{
+    width: 146px;
+    margin-left: 20px;
+    margin-top: -5px;
+    display: inline;
+    float: left;
+  }
+  #nonsense-1 {
+    display: inline;
+    float: right;
+    margin-right: 23px;
+    margin-top: 5px;
+  }
+  #nonsense-2 {
+    display: inline;
+    float: right;
+    margin-right: 32px;
+    margin-top: -15px;
+  }
+  #nonsense-3 {
+    display: inline;
+    float: right;
+    margin-right: 36px;
+    margin-top: -15px;
+  }
+  #nonsense-4 {
+    display: inline;
+    float: right;
+    margin-right: 36px;
+    margin-top: -15px;
+  }
+  #nonsense-5 {
+    display: inline;
+    float: right;
+    margin-right: 33px;
+    margin-top: -15px;
+  }
+  #nonsense-6 {
+    display: inline;
+    float: right;
+    margin-right: 43px;
+    margin-top: -15px;
+  }
+  #nonsense-7 {
+    display: inline;
+    float: right;
+    margin-right: 126px;
+    margin-top: -15px;
+  }
+  
+  #emails-tour-1 {
+    display: inline;
+    float: right;
+    margin-right: 41px;
+    margin-top: 10px;
+  }
+  #emails-tour-2 {
+    display: inline;
+    float: right;
+    margin-right: 40px;
+    margin-top: -15px;
+  }
+  #emails-tour-3 {
+    display: inline;
+    float: right;
+    margin-right: 40px;
+    margin-top: -15px;
+  }
+  .container-8 {
+    float: left;
+    display: inline;
+    margin-left: 25px;
+  }
+  #feather {
+    margin-top: 10px;
+  }
+  #taylor {
+    margin-top: 20px;
+  }
+  .container-9 {
+    float: left;
+    display: inline;
+    margin-left: 25px;
+  }
+  #fruitcake {
+    margin-top: 10px;
+  }
+  #espresso {
+    margin-top: 25px;
+  }
+  #sabrina-blue-dress {
+    width: 155px;
+     height: auto;
+    display: inline;
+  margin-right: 13px;
+  margin-top: -297px;
+  float: right;
+  }
+  #sabrina-short-n-sweet {
+    width: 195px;
+    margin-left: 20px;
+    margin-top: 7px;
+    display: inline;
+    float: left;
+  }
+  #please-1 {
+    margin-top: 15px;
+    margin-right: 100px;
+    display: inline;
+    float: right;
+  }
+  #please-2 {
+    margin-top: -15px;
+    margin-right: 77px;
+    display: inline;
+    float: right;
+  }
+  #please-3 {
+    margin-top: -15px;
+    margin-right: 63px;
+    display: inline;
+    float: right;
+  }
+  #please-4 {
+    margin-top: -15px;
+    margin-right: 66px;
+    display: inline;
+    float: right;
+  }
+  #please-5 {
+    margin-top: -15px;
+    margin-right: 48px;
+    display: inline;
+    float: right;
+  }
+  #please-6 {
+    margin-top: -15px;
+    margin-right: 82px;
+    display: inline;
+    float: right;
+  }
+  #please-7 {
+    margin-top: -15px;
+    margin-right: 122px;
+    display: inline;
+    float: right;
+  }
+  #first-1 {
+    margin-top: 15px;
+    margin-right: 22px;
+    display: inline;
+    float: right;
+  }
+  #first-2 {
+    margin-top: -15px;
+    margin-right: 45px;
+    display: inline;
+    float: right;
+  }
+  #first-3 {
+    margin-top: -15px;
+    margin-right: 43px;
+    display: inline;
+    float: right;
+  }
+  #first-4 {
+    margin-top: -15px;
+    margin-right: 54px;
+    display: inline;
+    float: right;
+  }
+  #first-5 {
+    margin-top: -15px;
+    margin-right: 85px;
+    display: inline;
+    float: right;
+  }
+  .container-11 {
+    float: left;
+    display: inline;
+    margin-left: 25px;
+  }
+  #short-n-sweet {
+    margin-top: 13px;
+  }
+  #short-n-sweet-tour {
+    margin-top: 25px;
+  }
+  #short-n-sweet-tour-2 {
+    margin-bottom: 20px;
+  }
+  #quote {
+    text-align: center;
+    color: #64401C;
+    font-family: Solway;
+    font-size: 30px;
+    width: 380px;
+    margin-right: 60px;
+    margin-left: 60px;
+    margin-top: -10px;
+  }
+  #quote-source {
+    color: #174789;
+    font-family: 'Sofia';
+    font-size: 40px;
+    font-weight: normal;
+    text-align: center;
+    margin-top: -30px;
+  }
+  #sabrina-espresso-collage {
+    width: 100%;
+    border: none;
+    margin-top: -30px;
+  }
+  #fourth-div-line {
+    margin-top: -4px;
+  }
+  #wiki, #site {
+    font-family: Solway;
+    color: #174789;
+    text-align: center;
+    font-size: 20px;
+  }
+  #tribute-link, #tribute-link-2 {
+    color: #D35139;
+    text-decoration: none;
+  }
+  #tribute-link:visited, #tribute-link-2:visited {
+    color: #9A341A;
+  }
+  #tribute-link:hover, #tribute-link-2:hover {
+    color: #FC817A;
+  }
